@@ -1,4 +1,4 @@
-# Estimation-of-Probability-of-Defaults-PD-for-Low-Default-Portfolios-An-Actuarial-Approach: https://www.academia.edu/download/90701271/mono-2012-as12-1-iqbal.pdf
+# Estimation-of-Probability-of-Defaults-PD-for-Low-Default-Portfolios-An-Actuarial-Approach 
 
 ![Texto alternativo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw6QnTOfrvvSDm1h5v9AUdm9H5yVx0EiHWfjqkyuXKRwQQocoIg4lqssbrmzZeHZpAQSG2hXkv8pRZkKVNYAAlRxRjJp6W7touKt0cwbYzl4cORoxSkbE1I9MrqWjgDiFn8VGHKAMwp9O0sYLHnd0WojRn82w1fNbimvsxuEIKmJGE7CqE_f-BQA/w640-h360/Default-Probability.jpg)
 Este repositorio contiene la implementación en Python de una réplica y extensión del modelo de estimación de Probabilidades de Incumplimiento (PD) presentado en el paper "Estimation of Probability of Defaults (PD) for Low-Default Portfolios: An Actuarial Approach".
@@ -37,3 +37,4 @@ Esta implementación en Python replica la estructura principal del modelo origin
 ##   Resultados
 
 El modelo implementado produce resultados similares a los del paper original, validando la efectividad de la metodología propuesta para la estimación de PDs en portafolios de baja tasa de incumplimiento.
+paper original: https://www.academia.edu/download/90701271/mono-2012-as12-1-iqbal.pdf
