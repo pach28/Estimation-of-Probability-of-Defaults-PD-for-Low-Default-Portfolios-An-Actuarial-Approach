@@ -1,6 +1,7 @@
 # Estimation-of-Probability-of-Defaults-PD-for-Low-Default-Portfolios-An-Actuarial-Approach 
 
 ![Texto alternativo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw6QnTOfrvvSDm1h5v9AUdm9H5yVx0EiHWfjqkyuXKRwQQocoIg4lqssbrmzZeHZpAQSG2hXkv8pRZkKVNYAAlRxRjJp6W7touKt0cwbYzl4cORoxSkbE1I9MrqWjgDiFn8VGHKAMwp9O0sYLHnd0WojRn82w1fNbimvsxuEIKmJGE7CqE_f-BQA/w640-h360/Default-Probability.jpg)
+
 Este repositorio contiene la implementación en Python de una réplica y extensión del modelo de estimación de Probabilidades de Incumplimiento (PD) presentado en el paper "Estimation of Probability of Defaults (PD) for Low-Default Portfolios: An Actuarial Approach".
 
 ##   Descripción del Modelo
